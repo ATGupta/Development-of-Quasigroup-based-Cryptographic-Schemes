@@ -1,0 +1,36 @@
+
+
+PT1 - A A A A A A A A A A (alphabets)
+CT1 - 10192C782C0EF02B36D4 (hexadecimal)
+	1 2 1 1 1 2 3 2 1 3 4 1 2 4 3 1 1 3 4 1 1 1 4 3 4 4 1 1 1 3 3 4 1 4 2 3 4 2 2 1 (Quasigroup form)
+	0 0 0 1 0 0 0 0 0 0 0 1 1 0 0 1 0 0 1 0 1 1 0 0 0 1 1 1 1 0 0 0 0 0 1 0 1 1 0 0 0 0 0 0 1 1 1 0 1 1 1 1 0 0 0 0 0 0 1 0 1 0 1 1 0 0 1 1 0 1 1 0 1 1 0 1 0 1 0 0 (binary)
+
+PT2 - 94961212AB (Hexadecimal)
+CT2 - C5CE7F2BC6 (Hexadecimal)
+	4 1 2 2 4 1 4 3 2 4 4 4 1 3 3 4 4 1 2 3 (Quasigroup form)
+	1 1 0 0 0 1 0 1 1 1 0 0 1 1 1 0 0 1 1 1 1 1 1 1 0 0 1 0 1 0 1 1 1 1 0 0 0 1 1 0 (Binary)
+
+PT3 - 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 (Quasigroup form)
+CT3 - 51586D396D (Hexadecimal)
+	2 2 1 2 2 2 3 1 2 3 4 2 1 4 3 2 2 3 4 2 (Quasigroup form)
+	0 1 0 1 0 0 0 1 0 1 0 1 1 0 0 0 0 1 1 0 1 1 0 1 0 0 1 1 1 0 0 1 0 1 1 0 1 1 0 1 (binary)
+
+PT4 - 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 (Binary)
+CT4 - 040D386C38 (Hexadecimal)
+	1 1 2 1 1 1 4 2 1 4 3 1 2 3 4 1 1 4 3 1 (Quasigroup form)
+	0 0 0 0 0 1 0 0 0 0 0 0 1 1 0 1 0 0 1 1 1 0 0 0 0 1 1 0 1 1 0 0 0 0 1 1 1 0 0 0 (Binary)
+
+PT5 - 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 (Quasigroup form)
+CT5 - 040D386C38 (Hexadecimal)
+	1 1 2 1 1 1 4 2 1 4 3 1 2 3 4 1 1 4 3 1 (Quasigroup form)
+	0 0 0 0 0 1 0 0 0 0 0 0 1 1 0 1 0 0 1 1 1 0 0 0 0 1 1 0 1 1 0 0 0 0 1 1 1 0 0 0 (binary)
+
+PT6 - 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 (Quasigroup form)
+CT6 - FBF2C793C7 (Hexadecimal)
+	4 4 3 4 4 4 1 3 4 1 2 4 3 2 1 4 4 1 2 4 (Quasigroup form)
+	1 1 1 1 1 0 1 1 1 1 1 1 0 0 1 0 1 1 0 0 0 1 1 1 1 0 0 1 0 0 1 1 1 1 0 0 0 1 1 1 (binary)
+
+PT7 - 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 (Quasigroup form)
+CT7 - AEA792C692 (Hexadecimal)
+	3 3 4 3 3 3 2 4 3 2 1 3 4 1 2 3 3 2 1 3 (Quasigroup form)
+	1 0 1 0 1 1 1 0 1 0 1 0 0 1 1 1 1 0 0 1 0 0 1 0 1 1 0 0 0 1 1 0 1 0 0 1 0 0 1 0 (binary)
